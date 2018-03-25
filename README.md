@@ -72,6 +72,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Authors
 
 * **Julio Flores** - *Initial work* - [Julio](https://github.com/floresSQL)
+* **Adrian Drummond** - *Initial Setup* - [Adrian](https://github.com/drumadrian)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
